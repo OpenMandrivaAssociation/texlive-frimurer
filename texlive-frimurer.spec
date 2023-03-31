@@ -1,6 +1,6 @@
 Name:		texlive-frimurer
 Version:	56704
-Release:	1
+Release:	2
 Summary:	Access to the 'frimurer' cipher for use with LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/frimurer

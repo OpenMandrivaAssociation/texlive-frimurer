@@ -3,7 +3,7 @@ Version:	56704
 Release:	2
 Summary:	Access to the 'frimurer' cipher for use with LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/frimurer
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/frimurer
 License:	gpl3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/frimurer.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/frimurer.doc.r%{version}.tar.xz
